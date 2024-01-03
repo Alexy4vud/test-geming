@@ -1,0 +1,7 @@
+body{
+background-image:url("https://img.freepik.com/free-psd/gamer-background-with-accessories_1419-2365.jpg?size=626&ext=jpg&ga=GA1.1.394167508.1655555921&semt=ais");
+}
+.form{
+  display:flex;
+  justify-content:center;
+} 
